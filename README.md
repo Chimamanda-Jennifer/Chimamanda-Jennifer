@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chimamanda-Akachukwu
+- 👋 Hi, I’m @Chimamanda-Jennifer
 - 👀 I’m interested in financial and data anaytics
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on financial data analysis
